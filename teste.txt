@@ -14,9 +14,9 @@ teste
 13
 14
 --INICIO FUNÇÂO
-1
-2
-3
+1first
+2second
+3console.lof()
 -- FIM Função
 -- INICIO FUNÇÂO DE TESTE GIT
 -- FIM FUNÇÂO DE TESTE GIT
