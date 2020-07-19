@@ -21,3 +21,5 @@ teste
 5
 6
 -- FIM Função
+-- INICIO FUNÇÂO DE TESTE GIT
+-- FIM FUNÇÂO DE TESTE GIT
