@@ -28,3 +28,7 @@ teste
 --INICIO FUnção 4
 
 -- Fim funcção 4
+
+-- Inicio Função 5
+
+-- Fim Função 5
