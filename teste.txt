@@ -13,3 +13,13 @@ teste
 12
 13
 14
+--INICIO FUNÇÂO
+1
+2
+3
+4
+5
+6
+-- FIM Função
+-- INICIO FUNÇÂO DE TESTE GIT
+-- FIM FUNÇÂO DE TESTE GIT
