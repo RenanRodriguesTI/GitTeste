@@ -20,3 +20,7 @@ teste
 -- FIM Função
 -- INICIO FUNÇÂO DE TESTE GIT
 -- FIM FUNÇÂO DE TESTE GIT
+
+-- INICIO FUNÇÃO 3 
+
+-- FIM Função 3
